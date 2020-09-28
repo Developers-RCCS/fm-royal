@@ -115,7 +115,7 @@ body {
 }
 
 .fondo {
-    background: #4422ff;
+    background: #2579f8;
     border-radius: 50%;
     box-shadow: 0 2px 20px rgba(0, 0, 200, 0.5);
     cursor: pointer;
@@ -125,7 +125,7 @@ body {
 }
 
 .botón:active .fondo {
-    background: #4422ff;
+    background: #2579f8c0;
 }
 .icono {
     height: 200px;
