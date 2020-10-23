@@ -8,7 +8,9 @@
         "type": "image/png"
         }
     ],
-    "start_url": "/index.html",
+    "start_url": "/fm-royal/index.html",
     "display": "fullscreen",
-    "orientation": "portrait"
+    "orientation": "portrait",
+    "background_color": "#103863",
+    "theme_color": "#103863"
 }
